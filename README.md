@@ -1,1 +1,2 @@
 # odin-recipes
+This Project is an recipes project. This project will have components related to html. At the conclusion of this project, I hope to demonstrate all of the html componenents that I have learned in the last few lessons.
